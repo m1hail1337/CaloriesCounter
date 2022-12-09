@@ -1,6 +1,6 @@
 const COEFFS = {
-    'male': -161,
-    'female': 5,
+    'male': 5,
+    'female': -161,
     'min': 1.2,
     'low': 1.375,
     'medium': 1.55,
